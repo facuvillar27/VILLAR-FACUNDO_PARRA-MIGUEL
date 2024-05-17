@@ -1,0 +1,17 @@
+[2024-05-16 22:36:34] [ INFO ] [Odontologo:40] Se ha registrado el odontologo: 
+Id: 3 - Número de matricula: 2222 - Nombre: Juan - Apellido: Perez
+[2024-05-16 22:55:26] [ INFO ] [Odontologo:97] Listado de odontologos obtenido: [
+Id: 1 - Número de matricula: 1234 - Nombre: Facundo - Apellido: Villar, 
+Id: 2 - Número de matricula: 1111 - Nombre: Miguel - Apellido: Parra, 
+Id: 3 - Número de matricula: 2222 - Nombre: Juan - Apellido: Perez]
+[2024-05-16 23:30:37] [ INFO ] [OdontologoDaoEnMemoria:21] Se ha registrado el odontologo en memoria: 
+Id: null - Número de matricula: 3333 - Nombre: Nicolas - Apellido: Gonzalez
+[2024-05-16 23:30:37] [ INFO ] [OdontologoDaoEnMemoria:28] Listado de todos los odontolos en memoria: [
+Id: null - Número de matricula: 3333 - Nombre: Nicolas - Apellido: Gonzalez]
+[2024-05-16 23:33:25] [ INFO ] [OdontologoDaoEnMemoria:21] Se ha registrado el odontologo en memoria: 
+Id: 1 - Número de matricula: 3333 - Nombre: Nicolas - Apellido: Gonzalez
+[2024-05-16 23:33:25] [ INFO ] [OdontologoDaoEnMemoria:21] Se ha registrado el odontologo en memoria: 
+Id: 2 - Número de matricula: 3333 - Nombre: Pedro - Apellido: Rodriguez
+[2024-05-16 23:33:25] [ INFO ] [OdontologoDaoEnMemoria:28] Listado de todos los odontolos en memoria: [
+Id: 1 - Número de matricula: 3333 - Nombre: Nicolas - Apellido: Gonzalez, 
+Id: 2 - Número de matricula: 3333 - Nombre: Pedro - Apellido: Rodriguez]
